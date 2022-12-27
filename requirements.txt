@@ -1,5 +1,5 @@
 cffi==1.12.3
-setuptools==40.8.0
+setuptools==65.5.1
 Click==7.0
 Flask==1.1.1
 gunicorn==19.9.0
